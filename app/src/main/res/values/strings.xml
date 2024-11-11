@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+
+    <string-array name="percentage">
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+    </string-array>
+</resources>
